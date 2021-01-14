@@ -1,5 +1,5 @@
 {
-  "name": "serverless-certificate-creator",
+  "name": "izb-serverless-certificate-creator",
   "version": "1.4.0",
   "description": "creates a certificate that can be used for custom domains for your api gateway",
   "main": "index.js",
@@ -18,10 +18,13 @@
   "devDependencies": {},
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/schwamster/serverless-certificate-creator.git"
+    "url": "git@github.com:izberg-marketplace/serverless-certificate-creator.git"
   },
   "bugs": {
     "url": "https://github.com/schwamster/serverless-certificate-creator/issues"
   },
-  "homepage": "https://github.com/schwamster/serverless-certificate-creator#readme"
+  "homepage": "https://github.com/schwamster/serverless-certificate-creator#readme",
+  "directories": {
+    "example": "examples"
+  }
 }
